@@ -17,7 +17,7 @@ DeepLearningProcess
            2、（Relu激活函数）
            3、池化
            4、密集连接
-           5、DropOut
+           5、DropOut  防止过拟合
         c、构建概率归一层 （输出层） （softmax）
         
 第五步： 构建编译运行模型
